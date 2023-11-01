@@ -24,4 +24,4 @@ This demonstrates a simple web-app leveraging the capabilities for Bedrock. It t
 * write a marketing campaign for halloween themed donuts
 
 ## Example
-![Alt text](Bedrock-POC.PNG)
+![Alt text](Bedrock-Example.PNG)
