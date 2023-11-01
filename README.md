@@ -1,4 +1,4 @@
-# Welcome to your CDK TypeScript project
+# Welcome
 
 This demonstrates a simple web-app leveraging the capabilities for Bedrock. It takes a text box for input and generates both text/image using models within Bedrock. The entire stack is deployed using AWS CDK. 
 
@@ -17,9 +17,7 @@ This demonstrates a simple web-app leveraging the capabilities for Bedrock. It t
 * `cdk diff`        compare deployed stack with current state
 * `cdk deploy`      deploy this stack to your default AWS account/region
 
-
-
-## Usage
+## Example Usage
 * Write an email to introduce new pair of running shoes
 * write a marketing campaign for halloween themed donuts
 
