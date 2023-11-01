@@ -1,0 +1,16 @@
+#sideBar  {
+    width:275px;
+    height: 1000px;
+    background-size: cover;
+    float: left;    
+    margin: 0 15px 0 0;
+}
+
+#topBar{
+
+}
+
+.new-line {
+    white-space: pre-line;
+    /* width: 100px; */
+  }
